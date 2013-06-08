@@ -13,9 +13,9 @@
 #
 # You should have received a copy of the GNU General Public License
 # along with this program; if not, write to the 
-#Free Software Foundation, Inc.,
+# Free Software Foundation, Inc.,
 # 51 Franklin Street, Fifth Floor, 
-#Boston, MA  02110-1301, USA.
+# Boston, MA  02110-1301, USA.
 
 # A quick note on usage:
 # 
@@ -25,6 +25,8 @@
 # To use any of these string slicers, import this module to your program,
 # then use 
 # print function_name(String-to-be-sliced, arg1, arg2 (if required)
+# If you just need to return the output and not print it, just call the
+# function as is
 
 def mid(strInput, start, length=1):
 	strOutput = []
