@@ -74,7 +74,6 @@ def left(strInput, length):
 			start += 1
 		return "".join(leftOutput)
 
-print left("Fit like a prostitute", 7)
 
 def right(strInput, length):
 	#most ambitious one yet as I need to go through this backwards!
