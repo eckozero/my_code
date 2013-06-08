@@ -5,11 +5,13 @@
 # Should you use any code please comment your code with something to the
 # effect of:
 #
-#    Code snippet originally written by Paul Lenton <lentonp@gmail.com>
+#     Code snippet originally written by Paul Lenton <lentonp@gmail.com>
 #
 # I wont cry or aything if you don't do that, but it would be nice. If any
 # of this code is handy in any way, please feel free to email me and let me
 # know how the code is being used!
 #
+# All code is licensed under the GNU GPLv2 - text of this licence can be
+# found in the LICENSE file associated with this Git repo.
 #
 # EOF
